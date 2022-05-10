@@ -33,7 +33,7 @@ The events page displays experiences and gatherings which anyone can attend to b
 The discussions page allows users to create or participate in discussion forums with other users and may delete their own comments if they choose to.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4juyeTI7EplDNbK0Zt/giphy.gif" alt="DiscussionsGIF"/>
+  <img src="https://media.giphy.com/media/9YmbjFSRA86YinDPkS/giphy.gif" alt="DiscussionsGIF"/>
 </p>
 
 ## Connections
