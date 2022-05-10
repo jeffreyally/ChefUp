@@ -20,13 +20,7 @@ The news page displays information about things occuring in the deaf community. 
   <img src="https://media.giphy.com/media/O7oJj17xcfxcquVdJ0/giphy.gif" alt="NewsGIF"/>
 </p>
 
-## Events
 
-The events page displays experiences and gatherings which anyone can attend to build friendships within the community.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/HUIvvGdpjkkCTZxoDY/giphy.gif" alt="EventsGIF"/>
-</p>
 
 ## Discussions
 
