@@ -4,7 +4,7 @@ This web application allows for its users to find recipes that are quick, health
 
 ## Home
 
-The home page allows for visitors to
+When the user first arrives to the home page, they are greeted with a pop up message that leads them to a tutorial of how Chef Up works.
 
 
 
@@ -12,9 +12,9 @@ The home page allows for visitors to
   <img src="https://media.giphy.com/media/YLFLF09Rhk7gEfavBT/giphy.gif" alt="HomeGIF"/>
 </p>
 
-## News
+## Search Functioanlity
 
-The news page displays information about things occuring in the deaf community. Each news card allows you to directly access more information about an article by taking you to it's specific site.
+From there, visitors are able to search for and browse through various recipes.
 
 <p align="center">
   <img src="https://media.giphy.com/media/O7oJj17xcfxcquVdJ0/giphy.gif" alt="NewsGIF"/>
