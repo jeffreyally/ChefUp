@@ -17,7 +17,7 @@ The home page allows for non-users to see what our website is about, and allows 
 The news page displays information about things occuring in the deaf community. Each news card allows you to directly access more information about an article by taking you to it's specific site.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/txIngpIXB4m8IlAp58/giphy.gif" alt="NewsGIF"/>
+  <img src="https://media.giphy.com/media/O7oJj17xcfxcquVdJ0/giphy.gif" alt="NewsGIF"/>
 </p>
 
 ## Events
