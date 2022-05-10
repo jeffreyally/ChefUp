@@ -22,15 +22,15 @@ From there, visitors are able to search for and browse through various recipes.
 
 
 
-## Discussions
+## Sign Up/Log In
 
-The discussions page allows users to create or participate in discussion forums with other users and may delete their own comments if they choose to.
+Visitors who register with Chef Up are able to add recipes to a cart, favorite recipes they would like to cook at a later date, and access a grocery list of every ingredient needed to cook every recipe in their cart.
 
 <p align="center">
   <img src="https://media.giphy.com/media/9YmbjFSRA86YinDPkS/giphy.gif" alt="DiscussionsGIF"/>
 </p>
 
-## Connections
+## Meal Suggestions
 
 The connections page encourages users to take part in a global chat where they can talk to other users in real time.
 
