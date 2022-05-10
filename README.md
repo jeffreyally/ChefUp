@@ -7,7 +7,7 @@ This website is a place where people can stay informed with deaf community news,
 The home page allows for non-users to see what our website is about, and allows users to access a summarized amount of information from the other News, Events, and Discussion pages.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RSmDbAPtHXg9BOvs5B/giphy.gif" alt="HomeGIF"/>
+  <img src="https://photos.app.goo.gl/yK1XYFoZaJ9r8ofR6" alt="HomeGIF"/>
 </p>
 
 ## News
