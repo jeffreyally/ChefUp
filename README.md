@@ -32,7 +32,7 @@ Visitors who register with Chef Up are able to set up a profile and favorite rec
 
 ## Meal Suggestions
 
-Registered users are also able to add recipes to their cart and gain access to a grocery list of every ingredient needed to cook every recipe in their cart. Also, they are able to use the random meals feature which allows them to browse through random meals based on their selected dietary preferences.
+Registered users are also able to add recipes to their cart and gain access to a grocery list of every ingredient needed to cook every recipe in their cart. Also, registered users are able to use the random meals feature which meal suggestions based on their selected dietary preferences.
 
 <p align="center">
   <img src="https://media.giphy.com/media/Mi9NFhFuZ9E1L34Itb/giphy.gif" alt="DiscussionsGIF"/>
