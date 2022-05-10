@@ -12,7 +12,7 @@ When the user first arrives to the home page, they are greeted with a pop up mes
   <img src="https://media.giphy.com/media/YLFLF09Rhk7gEfavBT/giphy.gif" alt="HomeGIF"/>
 </p>
 
-## Search Functioanlity
+## Search Functionality
 
 From there, visitors are able to search for and browse through various recipes.
 
@@ -32,7 +32,7 @@ Visitors who register with Chef Up are able to add recipes to a cart, favorite r
 
 ## Meal Suggestions
 
-The connections page encourages users to take part in a global chat where they can talk to other users in real time.
+Registered users are also able to use the random meals feature of the web application. This allows them to browse through random meals based on their selected dietary preferences.
 
 <p align="center">
   <img src="https://media.giphy.com/media/Mi9NFhFuZ9E1L34Itb/giphy.gif" alt="DiscussionsGIF"/>
