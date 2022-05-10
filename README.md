@@ -1,10 +1,10 @@
-# Follow The Signs
+# Chef Up
 
-This website is a place where people can stay informed with deaf community news, attend events, and particpate in discussions or chats amongst each other.
+This web application allows for its users to find recipes that are quick, healthy, and delicious.
 
 ## Home
 
-The home page allows for non-users to see what our website is about, and allows users to access a summarized amount of information from the other News, Events, and Discussion pages.
+The home page allows for visitors to
 
 
 
