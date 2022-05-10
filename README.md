@@ -24,7 +24,7 @@ From there, visitors are able to search for and browse through various recipes.
 
 ## Sign Up/Log In
 
-Visitors who register with Chef Up are able to add recipes to a cart, favorite recipes they would like to cook at a later date, and access a grocery list of every ingredient needed to cook every recipe in their cart.
+Visitors who register with Chef Up are able to set up a profile and favorite recipes they would like to cook at a later date.
 
 <p align="center">
   <img src="https://media.giphy.com/media/9YmbjFSRA86YinDPkS/giphy.gif" alt="DiscussionsGIF"/>
@@ -32,7 +32,7 @@ Visitors who register with Chef Up are able to add recipes to a cart, favorite r
 
 ## Meal Suggestions
 
-Registered users are also able to use the random meals feature of the web application. This allows them to browse through random meals based on their selected dietary preferences.
+Registered users are also able to add recipes to their cart and gain access to a grocery list of every ingredient needed to cook every recipe in their cart. Also, they are able to use the random meals feature which allows them to browse through random meals based on their selected dietary preferences.
 
 <p align="center">
   <img src="https://media.giphy.com/media/Mi9NFhFuZ9E1L34Itb/giphy.gif" alt="DiscussionsGIF"/>
